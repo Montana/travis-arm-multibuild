@@ -9,4 +9,4 @@ compiler:
 install: skip
 script:
   - cd src
-  - make all
+  - clang set.c
