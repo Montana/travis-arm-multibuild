@@ -1,0 +1,12 @@
+language: c
+arch:
+  - arm64
+  - ppc64le
+  - s390x
+compiler:
+  - gcc
+  - clang
+install: skip
+script:
+  - cd src
+  - make all
