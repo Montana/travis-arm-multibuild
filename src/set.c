@@ -1,5 +1,5 @@
 /* add.c
-     * a simple C program
+     * int sums by Montana
      */
       
     #include <stdio.h>
